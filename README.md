@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: https://github.com/aditya301cs/ZOMATO-INSIGHTS-USING-PYTHON
+Project Link: https://github.com/Kaushal-Kushwaha-0007/ZOMATO-INSIGHTS-USING-PYTHON
 
 ---
 
